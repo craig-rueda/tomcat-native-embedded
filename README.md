@@ -1,4 +1,4 @@
-# Tomcat Native on Alpine Linux
+# Tomcat Native + APR on Alpine Linux
 
 This repo shows how one would go about building Tomcat's [native bindings](http://tomcat.apache.org/native-doc/) inside of Alpine for use either in Tomcat or [Tomcat Embedded](https://tomcat.apache.org/download-80.cgi)
 
